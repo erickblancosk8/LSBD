@@ -1,0 +1,923 @@
+[2023/04/07 01:40:58]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+)
+
+[2023/04/07 01:43:11]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:44:33]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:45:15]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:45:17]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:45:23]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:45:29]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:45:47]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:45:59]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 01:46:29]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 03:25:44]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 03:46:04]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/04/07 03:47:05]  [127.0.0.1] Error de SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/27 00:42:03]  [::1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/27 02:05:21]  [::1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/27 02:09:06]  [::1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+    [1] => Array
+        (
+            [0] => 01S02
+            [SQLSTATE] => 01S02
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Cursor type changed
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Cursor type changed
+        )
+
+)
+[2023/05/27 02:37:01]  [::1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/27 02:38:18]  [::1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/27 20:51:15]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/27 20:51:28]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/27 22:06:50]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/27 22:07:10]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/31 05:34:22]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/31 05:34:56]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/31 05:35:00]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'or'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/31 06:25:40]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 06:26:06]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 06:26:15]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 06:35:51]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobarlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 20:31:18]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 20:31:43]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 20:41:40]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 21:27:42]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42S22
+            [SQLSTATE] => 42S22
+            [1] => 207
+            [code] => 207
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'pass'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 22:02:31]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 156
+            [code] => 156
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'CONVERT'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'CONVERT'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/31 22:03:02]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 102
+            [code] => 102
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near 'pass'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near 'pass'.
+        )
+
+    [1] => Array
+        (
+            [0] => 01000
+            [SQLSTATE] => 01000
+            [1] => 16954
+            [code] => 16954
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Executing SQL directly; no cursor.
+        )
+
+)
+[2023/05/31 23:16:16]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 23:17:00]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 23:17:11]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/05/31 23:18:18]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 2812
+            [code] => 2812
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'Comprobacionlogin'.
+        )
+
+    [1] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 16945
+            [code] => 16945
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The cursor was not declared.
+        )
+
+)
+[2023/06/01 01:54:55]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error
+        )
+
+)
+[2023/06/01 01:55:00]  [127.0.0.1] Error en SQL SERVER: Array
+(
+    [0] => Array
+        (
+            [0] => 42000
+            [SQLSTATE] => 42000
+            [1] => 0
+            [code] => 0
+            [2] => [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error
+            [message] => [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error
+        )
+
+)
